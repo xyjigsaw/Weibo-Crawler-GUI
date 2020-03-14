@@ -5,7 +5,7 @@
 ---
 # External Requirements
 
-- wx
+- wxpython
 
 ---
 
@@ -17,7 +17,7 @@
   - [py2exe](https://www.omegaxyz.com/2017/10/07/python%E6%89%93%E5%8C%85%E6%88%90exe%E6%96%87%E4%BB%B6/)
 - Detail_1: [python_weibo_code](https://www.omegaxyz.com/2018/02/13/python_weibo/)
 - Detail_2: [python_weibo_gui](https://www.omegaxyz.com/2018/02/14/python_weibo_gui/)
-- Other Ugly GUI Codes: [python_gui](https://www.omegaxyz.com/2018/02/16/python_gui/)
+- Other **Ugly** GUI Codes: [python_gui](https://www.omegaxyz.com/2018/02/16/python_gui/)
 
 ---
 
