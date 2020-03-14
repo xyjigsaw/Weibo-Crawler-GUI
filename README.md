@@ -1,8 +1,9 @@
 # Weibo-Crawler-GUI
 
- Weibo spider based on python
+ Weibo spider based on python3.6
 
 ---
+
 # External Requirements
 
 - wxpython
