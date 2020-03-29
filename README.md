@@ -7,7 +7,7 @@
 # External Requirements
 
 
-- wxpython
+- wxpython (Maybe you should use lower version.)
 
 ---
 
